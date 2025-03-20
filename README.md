@@ -14,3 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: admin@adelinesilva.com
+- ⚡ Fun fact: ...
+
+
+### Tools/Frameworks
+
+Programming Languages: Java, Python, C, Typescript
+
+Data Preprocessing: NumPy, Pandas.
+
+Data Visualization: Matplotlib, Seaborn.
+
+Integrated Development Environment: Jupyter-Notebook, VS Code, IntelliJ IDEA
+
+Issue Tracking: JIRA
+
+Wiki: Confluence
+
