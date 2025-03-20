@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on digitalization in Rural Areas in Germany. 
+- 🔭 I’m currently working on smart cities projects in Germany 
 - 🌱 I’m currently learning data analysis
 - 📫 How to reach me: admin@adelinesilva.com
 
