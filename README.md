@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on smart cities projects in Germany 
 - 🌱 I’m currently learning data analysis
-- 📫 How to reach me: admin@adelinesilva.com
+- 📫 How to reach me: https://www.linkedin.com/in/adelinesilvaschaefer/
 
 
 ### Tools/Frameworks
