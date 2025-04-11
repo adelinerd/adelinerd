@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 ### Tools/Frameworks
 
-Programming Languages: Java, Python, C, Typescript
+- `Programming Languages`: Java, Python, C, Typescript
 
-Data Preprocessing: NumPy, Pandas.
+- `Data Preprocessing`: NumPy, Pandas.
 
-Data Visualization: Matplotlib, Seaborn.
+- `Data Visualization`: Matplotlib, Seaborn.
 
-Integrated Development Environment: Jupyter-Notebook, VS Code, IntelliJ IDEA
+- `Integrated Development Environment`: VS Code, IntelliJ IDEA, Jupyter Notebook
 
-Issue Tracking: JIRA
+- `Issue Tracking`: JIRA
 
-Wiki: Confluence
+- `Wiki`: Confluence
 
